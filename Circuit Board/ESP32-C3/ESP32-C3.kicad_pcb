@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "ESP32-C3")
+    (date "2023-05-14")
+    (rev "1.0")
+    (company "Sebastian Rincon")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" power)
