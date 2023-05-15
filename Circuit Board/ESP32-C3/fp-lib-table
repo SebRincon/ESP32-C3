@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "W25Q16JVUXIQ_TR")(type "KiCad")(uri "${DEVELOPER}/ESP32-C3/Circuit Board/Libraries/W25Q16JVUXIQ_TR")(options "")(descr ""))
+  (lib (name "ESP32 Ant")(type "KiCad")(uri "${DEVELOPER}/ESP32-C3/Circuit Board/Libraries/Anteana")(options "")(descr ""))
 )

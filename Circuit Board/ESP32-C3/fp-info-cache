@@ -1,4 +1,4 @@
-20436442635539547
+20439810626771230
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52114,6 +52114,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32 Ant
+ESPRESSIF_ESP32_MIFA_2.4GHz_Right
+https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
+PCB antenna
+0
+2
+2
 Espressif
 ESP32-C3-MINI-1
 ESP32-C3-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
@@ -86232,3 +86239,10 @@ varistor SIOV
 0
 2
 2
+W25Q16JVUXIQ_TR
+SON50P300X200X60-9N
+USON 2x3x0.6-mm
+Integrated Circuit
+0
+9
+9
